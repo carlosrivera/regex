@@ -12,8 +12,8 @@ export default {
 
 <style lang="scss">
 
-html {
-  background-color: hsl(0, 0%, 7%);
-}
+  html, body {
+    background-color: hsl(0, 0%, 7%);
+  }
 
 </style>
